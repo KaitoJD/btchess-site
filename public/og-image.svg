@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#E8E2DB"/>
+  <rect x="62" y="62" width="1076" height="506" rx="38" fill="#F7F3EE" stroke="#1A3263" stroke-opacity="0.12"/>
+  <rect x="110" y="118" width="298" height="84" rx="18" fill="#1A3263"/>
+  <path d="M136 156H310" stroke="#FAB95B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M136 176H248" stroke="#547792" stroke-width="6" stroke-linecap="round"/>
+  <text x="110" y="300" fill="#0F1B33" font-family="Georgia, serif" font-size="74" font-weight="700">BTChess</text>
+  <text x="110" y="360" fill="#547792" font-family="Arial, sans-serif" font-size="30">Bluetooth chess across two devices</text>
+  <rect x="716" y="142" width="332" height="420" rx="34" fill="#111827"/>
+  <rect x="758" y="184" width="248" height="330" rx="26" fill="#F6EFE2"/>
+  <circle cx="882" cy="339" r="60" fill="#FAB95B" fill-opacity="0.85"/>
+</svg>
