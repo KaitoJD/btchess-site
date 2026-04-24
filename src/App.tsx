@@ -152,7 +152,7 @@ function App() {
         <section className="content-section notes-section" id="notes">
           <div className="section-heading reveal">
             <p className="kicker">Engineering notes</p>
-            <h2>A product story that reads like a changelog, but sells like a campaign.</h2>
+            <h2>A solution that reads like a changelog — but arrives like a campaign.</h2>
           </div>
 
           <div className="notes-grid">
